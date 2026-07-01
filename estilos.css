@@ -24,6 +24,7 @@ body{
     display: flex;
     flex-direction: column;
     mim-height: 100vh;
+    background-color: rgb(19, 181, 240);
 }
 
 main{
@@ -31,9 +32,10 @@ main{
 }
 
 .cabecalho-link{
-    color:rgb(236, 30, 160);
+    color:rgb(73, 179, 200);
+    text-decoration: none;
 }
 
 h1 {
-    color:rgb(184, 124, 186)
+    color:rgb(11, 100, 96)
 }
