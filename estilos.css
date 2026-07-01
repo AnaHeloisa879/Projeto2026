@@ -24,3 +24,7 @@ body{
     flex-direction: column;
     mim-height: 100vh;
 }
+
+main{
+    flex: 1;
+}
