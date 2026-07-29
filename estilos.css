@@ -73,4 +73,5 @@ cartao:hover .cartao-interno{
 
 section{
     display: flex;
+    gap: 16px;
 }
