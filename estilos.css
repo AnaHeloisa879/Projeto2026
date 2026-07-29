@@ -8,7 +8,7 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background-color:rgb(162, 91, 228);
+   background-color:rgb(217, 33, 202);
 }
 
 .cartao{
@@ -24,7 +24,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: rgb(169, 92, 224);
+    background-color: rgb(241, 84, 244);
 }
 
 main{
@@ -32,19 +32,19 @@ main{
 }
 
 .cabecalho-link{
-    color:rgb(112, 53, 215);
+    color:rgb(161, 10, 138);
     text-decoration: none;
 }
 
 h1 {
-    color:rgb(206, 74, 199);
+    color:rgb(123, 3, 103);
     font-size: 18px;
 }
 
 footer{
-    background-color: rgb(137, 115, 211);
+    background-color: rgb(194, 26, 140);
     padding: 15px 25px;
-    color:rgb(168, 94, 225);
+    color:rgb(239, 63, 195);
 }
 
 .cartao-interno{
@@ -54,5 +54,5 @@ footer{
 .cartao-frente, .cartao-verso{
     position: absolute;
     border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15 );
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
